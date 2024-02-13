@@ -1,6 +1,5 @@
 <img width="1057" alt="image" src="https://github.com/Aysha-Thikra/Aysha-Thikra/assets/154992188/45854698-2902-4d51-ada7-aba10e6dcd9f">
 
-<h1 align="center">Hi 👋, I'm Aysha Thikra</h1>
 <h3 align="center">A passionate Software Engineer & a Designer from Sri Lanka</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
