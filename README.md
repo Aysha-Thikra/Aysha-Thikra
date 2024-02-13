@@ -1,4 +1,4 @@
-<img width="1057" alt="image" src="https://github.com/Aysha-Thikra/Aysha-Thikra/assets/154992188/45854698-2902-4d51-ada7-aba10e6dcd9f">
+<img width="1057" alt="image" src="https://github.com/Aysha-Thikra/Aysha-Thikra/assets/154992188/e0e1cdfc-50d4-45c9-a1d4-76dcbcb3bcdf">
 
 <h3 align="center">A passionate Software Engineer & a Designer from Sri Lanka</h3>
 
