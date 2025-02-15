@@ -52,7 +52,7 @@
 
 <br><br><br>
 
-<h3 align="center">🐍 Snake Game Animation 🐍</h3>
+<h3 align="center">🐍 My Contribution 🐍</h3>
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Keerthika04/Keerthika04/output/github-contribution-grid-snake-dark.svg" />
 </p>
