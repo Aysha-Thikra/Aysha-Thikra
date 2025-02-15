@@ -49,3 +49,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysha-thikra&" alt="aysha-thikra" /></p>
   </div>
 </p>
+
+<br><br><br>
+
+<h3 align="center">🐍 Snake Game Animation 🐍</h3>
+<p align="center">
+  <img src="https://path_to_your_snake_game_animation.gif" alt="Snake Game Animation" width="500"/>
+</p>
