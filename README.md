@@ -8,11 +8,9 @@
 
 - 🌱 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **JAVA, JS, React**
-
-- 📫 How to reach me **ayshathelegendary@gmail.com**
 
 <br>
 
