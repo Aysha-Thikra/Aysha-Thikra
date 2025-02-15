@@ -54,5 +54,5 @@
 
 <h3 align="center">🐍 Snake Game Animation 🐍</h3>
 <p align="center">
-  <img src="https://path_to_your_snake_game_animation.gif" alt="Snake Game Animation" width="500"/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Keerthika04/Keerthika04/output/github-contribution-grid-snake-dark.svg" />
 </p>
