@@ -37,11 +37,9 @@
 <br>
 <p align=center>
   <div align=center>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysha-thikra&show_icons=true&locale=en&layout=compact&theme=lavender" alt="aysha-thikra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aysha-thikra&show_icons=true&locale=en&layout=compact" alt="aysha-thikra" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aysha-thikra&show_icons=true&locale=en&theme=lavender" alt="aysha-thikra" /></p>
-
-
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aysha-thikra&show_icons=true&locale=en" alt="aysha-thikra" /></p>
 <br><br><br><br><br><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysha-thikra&" alt="aysha-thikra" /></p>
