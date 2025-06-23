@@ -52,3 +52,7 @@
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Keerthika04/Keerthika04/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientStart=FFD700&gradientEnd=FF4500&height=100&section=footer"/>
+</p>
